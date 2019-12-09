@@ -1,0 +1,8 @@
+--cpu=Cortex-M4.fp
+".\objects\main.o"
+".\objects\startup_stm32f303xc.o"
+".\objects\system_stm32f30x.o"
+--strict --scatter ".\Objects\ex_01_blinky.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\ex_01_blinky.map" -o .\Objects\ex_01_blinky.axf

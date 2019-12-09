@@ -1,0 +1,20 @@
+Dependencies for Project 'ex_01_blinky', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Source\main.c)(0x5DED608F)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F303xC-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include\stm32f30x.h)(0x54257722)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include\system_stm32f30x.h)(0x54257722)
+F (RTE\Device\STM32F303VC\startup_stm32f303xc.s)(0x54257722)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_Target_1-I"D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include"--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F303xC SETA 1"--list .\listings\startup_stm32f303xc.lst --xref -o .\objects\startup_stm32f303xc.o --depend .\objects\startup_stm32f303xc.d)
+F (RTE\Device\STM32F303VC\system_stm32f30x.c)(0x54257722)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-I"D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include"-I"D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include"-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F303xC-o .\objects\system_stm32f30x.o --omf_browse .\objects\system_stm32f30x.crf --depend .\objects\system_stm32f30x.d)
+I (D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include\stm32f30x.h)(0x54257722)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (D:\Program Files (x86)\Keil\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (D:\Program Files (x86)\Keil\ARM\PACK\Keil\STM32F3xx_DFP\1.1.0\Device\Include\system_stm32f30x.h)(0x54257722)
