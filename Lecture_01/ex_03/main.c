@@ -13,7 +13,7 @@ main ()
 	float height_m;    // height of rectangle in meters
 	float height_inch; // height of rectangle in inches
 
-	const float inch = 0.254; // length of inche in meter
+	const float inch = 0.0254; // length of inche in meter
 
 	printf ("Enter the height of rectangle in metters L=" );
 	scanf ("%f", &height_m);
